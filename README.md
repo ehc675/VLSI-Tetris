@@ -1,2 +1,2 @@
 # VLSI-Tetris
-An VLSI implementation of the popular game Tetris
+A VLSI implementation of the popular game Tetris
